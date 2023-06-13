@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.vscode/
+BTC-USD.csv
+__pycache__/
+helper_functions.py
+metadata.tsv
+vectors.tsv
+.DS_Store/
