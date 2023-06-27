@@ -21,3 +21,21 @@ Going in chronological (and logical) order you can find here:
  * Accessing the GPU for more tensor-computing power
 
 [Notebook 01 - Neural Network Regression with TensorFlow](https://github.com/pawelkiszczak/tensorflow/blob/main/colab_notebooks/01_neural_network_regression_with_tensorflow.ipynb)
+* Architecture of a neural network regression model
+* Importance of input & output shapes
+* Create custom data to view and fit to the model
+* Whole modelling process and its steps
+* Different evaluation methods
+* Tackle first realand large dataset (insurance prediction)
+
+[Notebook 02 - Neural Network Classificaion with TensorFlow](https://github.com/pawelkiszczak/tensorflow/blob/main/colab_notebooks/02_neural_network_classification%20with_TensorFlow.ipynb)
+* Different types of classification problems (binary, multiclass, multilabel)
+* Activation functions and their importance in modelling (`relu`, `tanh`, `sigmoid` and others)
+* Finding the best learning rate for given problem
+* Classification evaluation metrics (confusion matrix)
+* Working with `fashion_mnist` dataset for multiclass classification
+* Normalizataion/scaling
+* What patterns is the model learning?
+
+[Notebook 03 - Introduction to computer vision with TensorFlow](https://github.com/pawelkiszczak/tensorflow/blob/main/colab_notebooks/03_introduction_to_computer_vision_with_tensorflow.ipynb)
+
