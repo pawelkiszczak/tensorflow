@@ -38,4 +38,14 @@ Going in chronological (and logical) order you can find here:
 * What patterns is the model learning?
 
 [Notebook 03 - Introduction to computer vision with TensorFlow](https://github.com/pawelkiszczak/tensorflow/blob/main/colab_notebooks/03_introduction_to_computer_vision_with_tensorflow.ipynb)
+* Building a simple end-to-end CNN model (image classification: pizza or steak)
+* Batching data for the model
+* New layers introduced: `Dropout`, `Activation`
+* Overfitting vs underfitting
+* Data augmentation techniques for images
+* Making predictions on custom data to test our model
+* Working with Food101 dataset: preprocessing, modelling, evaluating
+* Hyperparameter tuning to reduce overfitting
+
+[Notebook 04 - Transfer Learning in TensorFlow Part 1: Feature Extraction](https://github.com/pawelkiszczak/tensorflow/blob/main/colab_notebooks/04_transfer_learning_in_tensorflow_feature_extraction.ipynb)
 
