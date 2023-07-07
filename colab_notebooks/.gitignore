@@ -5,4 +5,6 @@ __pycache__/
 helper_functions.py
 metadata.tsv
 vectors.tsv
-.DS_Store/
+.DS_Store
+03_exercise_dataset/
+04_exercise_dataset/
