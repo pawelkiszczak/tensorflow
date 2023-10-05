@@ -48,4 +48,20 @@ Going in chronological (and logical) order you can find here:
 * Hyperparameter tuning to reduce overfitting
 
 [Notebook 04 - Transfer Learning in TensorFlow Part 1: Feature Extraction](https://github.com/pawelkiszczak/tensorflow/blob/main/colab_notebooks/04_transfer_learning_in_tensorflow_feature_extraction.ipynb)
+* Working with Foof101 dataset (again)
+* Using callbacks: `TensorBoard`, `ModelCheckpoint`
+* Creating data loaders with `ImageDataGenerator`
+* Using a pretrained model from [TensorFlow Hub](https://tfhub.dev) being EfficientNetB0 and ResNET50 V2
+* Freezing all the layers of pretrained model with `KerasLayer(trainable=False)`
+* Compering the results of mentioned models with `TensorBoard`
 
+[Notebook 05 - Transfer Learning with TensorFlow Part 2: Fine-Tuning](https://github.com/pawelkiszczak/tensorflow/blob/main/colab_notebooks/05_transfer_learning_in_tensorflow_part_2_fine_tuning.ipynb)
+* Reusing the earlier written `helper_functions` script (plot curves, unzip data, walk through directory etc.)
+* Building `Model0` with TensorFlow's `FunctionalAPI` and EfficientNetB0
+* Understanding the basic principles behind `GlobalAveragePooling2D` layer
+* Running a series of experiments - from `Model1` to `Model4` (differentiaton between feature extraction/fine tuned EfficientNetB0 model and amount of training data)
+* Learning about **data augmentation** and its unparalelled strenghts for training deep neural networks
+* Fine-tuning an earlier used EfficientNetB0 model to compare the performance versus the base version of the model
+
+[Notebook 06 - Transfer Learning with TensorFlow Part 3: Scaling up (Food Vision mini)](https://github.com/pawelkiszczak/tensorflow/blob/main/colab_notebooks/06_transfer_learning_in_tensorflow_part_3_scaling_up.ipynb)
+* 
